@@ -1,4 +1,4 @@
-<span style="color:green;font-weight:700;font-size:20px">Hi there!👋</span>
+<span style="color:green">Hi there!👋</span>
 # Hi there!👋
 ## 💬 About Me
 I'm Passakorn Kongboonkiat. Currently, I'm studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang (KMITL).
