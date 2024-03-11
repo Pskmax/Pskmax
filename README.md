@@ -6,7 +6,7 @@ I'm Passakorn Kongboonkiat. Currently, I'm studying Computer Engineering at King
 - 🌱 I’m currently learning Flutter.
 - 🔭 I’m currently looking for a job.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Passakorn_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pskmax&theme=transparent)
 <!--
 **Pskmax/Pskmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
