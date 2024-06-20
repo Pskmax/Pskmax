@@ -1,6 +1,6 @@
 # Hi there!👋
 ### 💬 About Me
-I'm Passakorn Kongboonkiat. I recently graduated from King Mongkut's Institute of Technology Ladkrabang (KMITL).
+I'm Passakorn Kongboonkiat. I recently graduated from King Mongkut's Institute of Technology Ladkrabang (KMITL).<br>
 My bachelor's degree: Computer Engineering
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pskmax&layout=compact)
