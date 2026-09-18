@@ -6,7 +6,7 @@ My bachelor's degree: Computer Engineering
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pskmax&layout=compact)
 
 ### 💬 What I am currently doing.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Unity C#.
 - 🔭 I’m currently looking for a job.
 
 
